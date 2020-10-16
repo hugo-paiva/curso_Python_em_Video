@@ -1,0 +1,6 @@
+print('====== DESAFIO 04 =======')
+algo = input('Digite algo: ')
+print(type(algo))
+print(algo.isdecimal())
+print(algo.isnumeric())
+print(algo.islower())
